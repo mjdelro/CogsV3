@@ -1,4 +1,18 @@
-# Red cogs v3
+<p align="center">
+  <img src="assets/icon.svg" alt="Red Cogs V3 Icon" width="104" height="104" />
+</p>
+
+<h1 align="center">Red Cogs V3</h1>
+
+<p align="center">Experimental cogs (kudos & badtouch) for Red-DiscordBot v3.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Red--DiscordBot-v3-5865F2?style=flat-square&logo=discord&logoColor=white" alt="" />
+  <img src="https://img.shields.io/github/license/mjdelro/CogsV3?style=flat-square&color=64748b" alt="" />
+</p>
+
+---
 
 Two experimental cogs for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot):
 
